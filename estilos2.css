@@ -560,6 +560,56 @@ img{
     }
 
 
+    .opcionesBusquedasLiga, .opcionesBusquedasPosUnica, .opcionesBusquedasEdad, .opcionesBusquedasValor, .opcionesBusquedasGoles, .opcionesBusquedasMinutos, .opcionesBusquedasDuelos, .opcionesBusquedasPie, .opcionesBusquedasPasaporte 
+{
+    color: lightseagreen;
+    font-size: 15px;
+    text-align: center;
+}
+
+.opcionesBusquedasLiga
+{
+    padding: 5px 80px;
+}
+
+.opcionesBusquedasPosUnica
+{
+    padding: 5px 76px;
+}
+
+.opcionesBusquedasEdad
+{
+    padding: 5px 70px;
+}
+
+.opcionesBusquedasValor
+{
+    padding: 5px 24px;
+}
+
+.opcionesBusquedasGoles
+{
+    padding: 5px 83px;
+}
+
+.opcionesBusquedasMinutos
+{
+    padding: 5px 23px;
+}
+
+.opcionesBusquedasDuelos
+{
+    padding: 5px 95px;
+}
+
+.opcionesBusquedasPie{
+    padding: 5px 110px;
+}
+
+.opcionesBusquedasPasaporte
+{
+    padding: 5px 87px;
+}
 
 }
 
