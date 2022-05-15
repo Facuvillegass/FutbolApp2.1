@@ -562,7 +562,7 @@ img{
 
     .opcionesBusquedasLiga, .opcionesBusquedasPosUnica, .opcionesBusquedasEdad, .opcionesBusquedasValor, .opcionesBusquedasGoles, .opcionesBusquedasMinutos, .opcionesBusquedasDuelos, .opcionesBusquedasPie, .opcionesBusquedasPasaporte 
 {
-    color: lightseagreen;
+    color: red;
     font-size: 15px;
     text-align: center;
 }
