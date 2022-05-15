@@ -25,13 +25,13 @@
 
 .contenedorLiga
 {
-    grid-column: 2/3;
+    grid-column: 3/4;
     grid-row: 1/2;
 }
 
 .contenedorBuscar
 {
-   grid-column: 3/4;
+   grid-column: 2/3;
    grid-row: 1/2;
    margin-bottom: 15px;
 
@@ -94,6 +94,15 @@
 .campoBuscar
 {
     color: white;
+    padding: 5px 55px;
+    border: solid 2px white;
+
+    
+}
+
+.textoBuscar
+{
+    margin-top: 15px;
 }
 
 
@@ -191,7 +200,8 @@ label{
 {
     color: lightseagreen;
     font-size: 15px;
-    text-align: center;
+    border: solid 2px white;
+
 }
 
 .opcionesBusquedasLiga
@@ -211,7 +221,7 @@ label{
 
 .opcionesBusquedasValor
 {
-    padding: 5px 24px;
+    padding: 5px 61px;
 }
 
 .opcionesBusquedasGoles
@@ -221,7 +231,7 @@ label{
 
 .opcionesBusquedasMinutos
 {
-    padding: 5px 23px;
+    padding: 5px 83px;
 }
 
 .opcionesBusquedasDuelos
@@ -237,6 +247,8 @@ label{
 {
     padding: 5px 87px;
 }
+
+
 
 
 
@@ -263,7 +275,7 @@ label{
     align-items: center;
     text-align: center;
     padding: 10px;
-    border: solid 3px white;
+    border: solid 3px lightseagreen;
 }
 
 .NombreJugador
@@ -282,7 +294,7 @@ label{
     color: black;
     font-size: 16px;
     padding: 6px;
-    background-color: lightgrey;
+    background-color: lightseagreen;
     border-top: solid 3px black;
     margin-bottom: 3px;
 }
@@ -562,7 +574,7 @@ img{
 
     .opcionesBusquedasLiga, .opcionesBusquedasPosUnica, .opcionesBusquedasEdad, .opcionesBusquedasValor, .opcionesBusquedasGoles, .opcionesBusquedasMinutos, .opcionesBusquedasDuelos, .opcionesBusquedasPie, .opcionesBusquedasPasaporte 
 {
-    color: red;
+    color: lightseagreen;
     font-size: 15px;
     text-align: center;
 }
